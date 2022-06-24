@@ -32,11 +32,11 @@ To be Added
 
 ## Instructions for Future Developers:
 
-To be Added
+- Use jQuery UI to change dialog boxes to Yes/No.
 
 ## Known Bugs/Future Additions:
 
-To Be Added
+to be Added
 
 ## License Information:
 
@@ -51,3 +51,22 @@ To Be Added
     * Linked to reset.css
     * Changed css and js links to relative pathing and placed them in proper folders
     * Started Initial README.md
+
+**0.1 - Popup Windows and Results Recorded**
+    
+    * Added Button for setting parameters for password
+    * Added variables for:
+        lowerCase
+        upperCase
+        numberInc
+        specialChar
+    * Added prompt windows for number of characters in password
+    * Added check to make sure password is between 1 and 128 characters and must be a number.
+    * Added confirm windows for:
+        Lowercase
+        Uppercase
+        Numbers
+        Special Characters
+    * Tested with console to ensure outputs are correct.
+    * Added Comments to new sections in JS
+    * Updated README.md
