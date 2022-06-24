@@ -70,3 +70,9 @@ to be Added
     * Tested with console to ensure outputs are correct.
     * Added Comments to new sections in JS
     * Updated README.md
+
+**0.21 - For loop to make sure password length is correct**
+
+    * Added for loop to run function genPassword while < passwordLength.
+    * Checked output length # is correct.
+    *---Still need to switch to string length.

@@ -6,12 +6,20 @@ var lowerCase = false;
 var upperCase = false;
 var numberInc = false;
 var specialChar = false;
+var genPassword = 0;
 
 // Write password to the #password input
 function writePassword() {
+  function generatePassword(){
+    //Run this loop until it reaches the desired password length
+    for(i=0; i < inputLength; i++){
+      genPassword++
+      }
+      return genPassword;
+  }
+  // Generates Password and displays it in Text Box
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
-
   passwordText.value = password;
 
 }
