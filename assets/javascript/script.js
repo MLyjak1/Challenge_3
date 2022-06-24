@@ -6,14 +6,15 @@ var lowerCase = false;
 var upperCase = false;
 var numberInc = false;
 var specialChar = false;
-var genPassword = 0;
+
 
 // Write password to the #password input
 function writePassword() {
   function generatePassword(){
+    var genPassword = "";
     //Run this loop until it reaches the desired password length
     for(i=0; i < inputLength; i++){
-      genPassword++
+      genPassword = genPassword.concat("0");
       }
       return genPassword;
   }
