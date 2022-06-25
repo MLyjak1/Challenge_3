@@ -76,3 +76,5 @@ to be Added
     * Added for loop to run function genPassword while < passwordLength.
     * Checked output length # is correct.
     *---Still need to switch to string length.
+
+**0.22 - genPassword is now a String and adds on a char each iteration of for loop**
