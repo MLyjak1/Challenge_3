@@ -24,11 +24,9 @@ A Randoms Password Generator based on certain user-input parameters.
 
 ## Description:
 
-<!-- https://mlyjak1.github.io/Challenge_2/ -->
+Generates a random password based on user input between 1 and 128 characters.
 
-To be Added
-
-<!-- ![](assets/images/Challenge%202%20Screenshot.png) -->
+![](assets/Screenshot.jpg)
 
 ## Instructions for Future Developers:
 
