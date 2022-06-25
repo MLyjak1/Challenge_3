@@ -24,6 +24,8 @@ A Randoms Password Generator based on certain user-input parameters.
 
 ## Description:
 
+https://mlyjak1.github.io/Challenge_3/
+
 Generates a random password based on user input between 1 and 128 characters.
 
 ![](assets/Screenshot.jpg)
